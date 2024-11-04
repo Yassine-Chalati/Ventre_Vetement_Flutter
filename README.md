@@ -1,7 +1,4 @@
-<div style="text-align: center; color: red;">
-  <h1>vente_vitmentr</h1>
-</div>
-
+#vente_vitment
 
 ## Marks
 you can test the AI integrated with andy images but for 3 category: 
