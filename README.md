@@ -1,7 +1,7 @@
 # vente_vitment
 
 ## Marks
-you can test the AI integrated with andy images but for 3 category: 
+you can test the AI integrated with any images chosen by you, but only for 3 category: 
   ---> Jeans
   ---> Jacket
   ---> T-short
