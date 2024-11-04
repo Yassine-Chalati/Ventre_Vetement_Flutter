@@ -60,3 +60,9 @@ Design pattern MVVM
 ![Firestore Firebase 2](images/2.png)
 ![Firestore Firebase 3](images/3.png)
 
+## Marks
+you can test the AI integrated with andy images but for 3 category: 
+  ---> Jeans
+  ---> Jacket
+  ---> T-short
+
