@@ -51,10 +51,12 @@ service cloud.firestore {
 
 ## Architecuture utilise
 Design pattern MVVM
-![Desing Pattern MVVM](images/mvvm.png)
+![Desing Pattern MVVM](images/5.png)
 
 
 ## Firebase
-![Authentication Firebase](images/firebaseAuth.png)
-![Firestore Firebase](images/firebaseFireStore.png)
+![Authentication Firebase](images/4.png)
+![Firestore Firebase 1](images/1.png)
+![Firestore Firebase 2](images/2.png)
+![Firestore Firebase 3](images/3.png)
 
